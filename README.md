@@ -1,6 +1,6 @@
 # Spring Boot Testing
 
-# This is a Spring Boot project designed **specifically for testing and validating REST controller functionality**, with a focus on **HTTP GET and POST methods**. It is meant for learning, experimentation, and understanding how to test RESTful endpoints in a Spring Boot environment using best practices.
+This is a Spring Boot project designed **specifically for testing and validating REST controller functionality**, with a focus on **HTTP GET and POST methods**. It is meant for learning, experimentation, and understanding how to test RESTful endpoints in a Spring Boot environment using best practices.
 
 ## Purpose
 
